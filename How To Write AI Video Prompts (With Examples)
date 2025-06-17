@@ -1,0 +1,69 @@
+https://blog.segmind.com/how-to-write-ai-video-prompts-with-examples/ 
+how to write prompt for stable diffusion video
+🧠 Prompt Structure for Stable Diffusion Video
+1. Subject: Who or what is the focus?
+2. Action or Motion: What are they doing?
+3. Environment: Where is it happening?
+4. Style & Mood: Cinematic? Dreamy? Hyper-realistic?
+5. Quality Tags: “masterpiece,” “high detail,” “4K,” etc.
+6. Negative Prompts (optional): What do you want to avoid? (e.g., “blurry,” “low quality”)
+
+🎬 Example Prompt
+“A futuristic samurai walking through neon-lit Tokyo streets at night, rain falling, cinematic lighting, ultra-detailed, 4K, masterpiece”
+Negative prompt: “blurry, distorted, low-res, extra limbs”
+
+
+🔧 Tips for Better Results
+- Use motion cues: “walking,” “spinning,” “zooming out,” “slow motion”
+- Add camera directions: “drone shot,” “close-up,” “pan left”
+- Be specific: Instead of “a man,” try “an elderly man in a trench coat holding a glowing orb”
+- Use AnimateDiff or Deforum settings to control frame count, zoom, and motion interpolation
+
+If you want a full walkthrough, this AnimateDiff tutorial and this video prompt guide break it down beautifully. Or check out this YouTube tutorial Great question, Shawn! Writing prompts for Stable Diffusion video generation—especially with tools like AnimateDiff or Deforum—is all about blending vivid imagery with motion cues. Here's a quick-start formula to help you craft compelling prompts:
+
+🧠 Prompt Structure for Stable Diffusion Video
+1. Subject: Who or what is the focus?
+2. Action or Motion: What are they doing?
+3. Environment: Where is it happening?
+4. Style & Mood: Cinematic? Dreamy? Hyper-realistic?
+5. Quality Tags: “masterpiece,” “high detail,” “4K,” etc.
+6. Negative Prompts (optional): What do you want to avoid? (e.g., “blurry,” “low quality”)
+
+🎬 Example Prompt
+“A futuristic samurai walking through neon-lit Tokyo streets at night, rain falling, cinematic lighting, ultra-detailed, 4K, masterpiece”
+Negative prompt: “blurry, distorted, low-res, extra limbs”
+
+
+🔧 Tips for Better Results
+- Use motion cues: “walking,” “spinning,” “zooming out,” “slow motion”
+- Add camera directions: “drone shot,” “close-up,” “pan left”
+- Be specific: Instead of “a man,” try “an elderly man in a trench coat holding a glowing orb”
+- Use AnimateDiff or Deforum settings to control frame count, zoom, and motion interpolation
+
+If you want a full walkthrough, this AnimateDiff tutorial and this video prompt guide break it down beautifully. Or check out this YouTube tutorial that shows how to structure prompts and use negative prompts effectively.
+Want me to help you write a prompt for a specific scene or idea? I’d love to collaborate! 🎥✨
+that shows how to structure prompts and use negative prompts effectively.
+Great question, Shawn! Writing prompts for Stable Diffusion video generation—especially with tools like AnimateDiff or Deforum—is all about blending vivid imagery with motion cues. Here's a quick-start formula to help you craft compelling prompts:
+
+🧠 Prompt Structure for Stable Diffusion Video
+1. Subject: Who or what is the focus?
+2. Action or Motion: What are they doing?
+3. Environment: Where is it happening?
+4. Style & Mood: Cinematic? Dreamy? Hyper-realistic?
+5. Quality Tags: “masterpiece,” “high detail,” “4K,” etc.
+6. Negative Prompts (optional): What do you want to avoid? (e.g., “blurry,” “low quality”)
+
+🎬 Example Prompt
+“A futuristic samurai walking through neon-lit Tokyo streets at night, rain falling, cinematic lighting, ultra-detailed, 4K, masterpiece”
+Negative prompt: “blurry, distorted, low-res, extra limbs”
+
+
+🔧 Tips for Better Results
+- Use motion cues: “walking,” “spinning,” “zooming out,” “slow motion”
+- Add camera directions: “drone shot,” “close-up,” “pan left”
+- Be specific: Instead of “a man,” try “an elderly man in a trench coat holding a glowing orb”
+- Use AnimateDiff or Deforum settings to control frame count, zoom, and motion interpolation
+
+If you want a full walkthrough, this AnimateDiff tutorial and this video prompt guide break it down beautifully. Or check out this YouTube tutorial that shows how to structure prompts and use negative prompts effectively.
+
+
